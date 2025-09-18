@@ -66,3 +66,10 @@ layout: default
 
 　　希望这份指南能帮你无缝连接巴哈马的碧海蓝天！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Bahamas eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/bahamas-data-plans)
